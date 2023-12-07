@@ -66,5 +66,4 @@
 5. [Gerenciador de Tarefas - JSF, HIBERNATE, PRIMEFACES](https://github.com/paulohenr96/gerenciador-tarefas)
 
 
-## Certficações
 
