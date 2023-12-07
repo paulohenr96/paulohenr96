@@ -59,11 +59,11 @@
 
 
 ## Projetos
-[Sistema para Clinica de Nutrição - SPRING MVC](https://github.com/paulohenr96/sistemaClinicaNutricao)
-[API Rest para Hotel -  Spring Framework, Token JWT](https://github.com/paulohenr96/api_reservas_hotel)
-[API Rest para Academias - Spring Framework, Token JWT](https://github.com/paulohenr96/api-academia)
-[Gerenciador de Alimentação - JSP, HIBERNATE, BOOTSTRAP](https://github.com/paulohenr96/ProjetoAlimentos)
-[Gerenciador de Tarefas - JSF, HIBERNATE, PRIMEFACES](https://github.com/paulohenr96/gerenciador-tarefas)
+1. [Sistema para Clinica de Nutrição - SPRING MVC](https://github.com/paulohenr96/sistemaClinicaNutricao)
+2. [API Rest para Hotel - Spring Framework, Token JWT](https://github.com/paulohenr96/api_reservas_hotel)
+3. [API Rest para Academias - Spring Framework, Token JWT](https://github.com/paulohenr96/api-academia)
+4. [Gerenciador de Alimentação - JSP, HIBERNATE, BOOTSTRAP](https://github.com/paulohenr96/ProjetoAlimentos)
+5. [Gerenciador de Tarefas - JSF, HIBERNATE, PRIMEFACES](https://github.com/paulohenr96/gerenciador-tarefas)
 
 
 ## Certficações
