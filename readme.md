@@ -59,7 +59,7 @@
 
 
 ## Projetos
-1. [Sistema de Controle de Estoque - SPRING, ANGULARM BOOTSTRAP](https://github.com/paulohenr96/inventorymanagement)
+1. [Sistema de Controle de Estoque - SPRING, ANGULAR BOOTSTRAP](https://github.com/paulohenr96/inventorymanagement)
 2. [Sistema para Clinica de Nutrição - SPRING MVC](https://github.com/paulohenr96/sistemaClinicaNutricao)
 3. [Gerenciador de Alimentação - JSP, HIBERNATE, BOOTSTRAP](https://github.com/paulohenr96/ProjetoAlimentos)
 4. [Gerenciador de Tarefas - JSF, HIBERNATE, PRIMEFACES](https://github.com/paulohenr96/gerenciador-tarefas)
