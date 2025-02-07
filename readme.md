@@ -57,8 +57,9 @@
   </a>
 </p>
 
-
-## Projetos
+## Quality Assurance
+1. [Automated Test for OpenCart E-Commerce](https://github.com/paulohenr96/opencart)
+## Web Development
 1. [Sistema de Controle de Estoque - SPRING, ANGULAR BOOTSTRAP](https://github.com/paulohenr96/inventorymanagement)
 2. [Sistema para Clinica de Nutrição - SPRING MVC](https://github.com/paulohenr96/sistemaClinicaNutricao)
 3. [Gerenciador de Alimentação - JSP, HIBERNATE, BOOTSTRAP](https://github.com/paulohenr96/ProjetoAlimentos)
