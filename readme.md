@@ -7,10 +7,8 @@
   <a href="mailto:paulohsantos281096@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail">
   </a>
-  <a href="https://paulohenriquejavaweb.com.br">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/SEUUSERNAME/">
+ 
+  <a href="https://www.linkedin.com/in/paulo-henrique96/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
