@@ -1,71 +1,63 @@
+# 💻 Paulo Henrique  
 
-# Paulo Henrique 
-
-
-## Contato
+## 📫 Contato  
 <p align="center">
   <a href="mailto:paulohsantos281096@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail">
   </a>
- 
   <a href="https://www.linkedin.com/in/paulo-henrique96/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
+---
 
-
-## Habilidades
+## 🚀 Habilidades  
 <p align="center">
-  <a href="https://www.java.com/">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  </a>
-  <a href="https://spring.io/">
-    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
-  </a>
-  <a href="https://www.eclipse.org/">
-    <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="Eclipse">
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  </a>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="Eclipse">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="Github Actions">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
+  <img src="https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="K6">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
 </p>
 
+---
+
+## 📊 Estatísticas do GitHub  
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  </a>
-  <a href="https://angular.io/">
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  </a>
-  <a href="https://getbootstrap.com/">
-    <img src="https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117" alt="Bootstrap">
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" alt="PostgreSQL">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=paulohenr96&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulohenr96&theme=radical" alt="Streak Stats">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohenr96&layout=compact&theme=radical" alt="Linguagens mais usadas">
 </p>
 
-<p align="center">
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Vscode">
-  </a>
-</p>
+---
 
-## Quality Assurance
-1. [Automated Test for OpenCart E-Commerce - Automated tests using Selenium, Jenkins, TestNG](https://github.com/paulohenr96/opencart)
-2. [Testes de Performance da Api Serverest - NodeJS, K6](https://github.com/paulohenr96/serveresttests)
-## Web Development
-1. [Sistema de Controle de Estoque - SPRING, ANGULAR BOOTSTRAP](https://github.com/paulohenr96/inventorymanagement)
-2. [Sistema para Clinica de Nutrição - SPRING MVC](https://github.com/paulohenr96/sistemaClinicaNutricao)
-3. [Gerenciador de Alimentação - JSP, HIBERNATE, BOOTSTRAP](https://github.com/paulohenr96/ProjetoAlimentos)
-4. [Gerenciador de Tarefas - JSF, HIBERNATE, PRIMEFACES](https://github.com/paulohenr96/gerenciador-tarefas)
-5.  [API Rest para Hotel - Spring Framework, Token JWT](https://github.com/paulohenr96/api_reservas_hotel)
-6. [API Rest para Academias - Spring Framework, Token JWT](https://github.com/paulohenr96/api-academia)
+## 🛠 Projetos  
 
+### 🧪 **Quality Assurance**  
+- 📌 [Automated Test for OpenCart E-Commerce](https://github.com/paulohenr96/opencart) - Testes automatizados com Selenium, Jenkins e TestNG.  
+- 📌 [Testes de Performance da API Serverest](https://github.com/paulohenr96/serveresttests) - Testes de carga com NodeJS e K6.  
 
+### 🌐 **Web Development**  
+- 📌 [Sistema de Controle de Estoque](https://github.com/paulohenr96/inventorymanagement) - Spring, Angular e Bootstrap.  
+- 📌 [Sistema para Clínica de Nutrição](https://github.com/paulohenr96/sistemaClinicaNutricao) - Desenvolvido com Spring MVC.  
+- 📌 [Gerenciador de Alimentação](https://github.com/paulohenr96/ProjetoAlimentos) - Utilizando JSP, Hibernate e Bootstrap.  
+- 📌 [Gerenciador de Tarefas](https://github.com/paulohenr96/gerenciador-tarefas) - JSF, Hibernate e PrimeFaces.  
+- 📌 [API Rest para Hotel](https://github.com/paulohenr96/api_reservas_hotel) - Implementado com Spring Framework e autenticação JWT.  
+- 📌 [API Rest para Academias](https://github.com/paulohenr96/api-academia) - Construída com Spring Framework e segurança JWT.  
 
+---
 
