@@ -49,7 +49,9 @@
 
 ### 🧪 **Quality Assurance**  
 - 📌 [Automated Test for OpenCart E-Commerce](https://github.com/paulohenr96/opencart) - Testes automatizados com Selenium, Jenkins e TestNG.  
-- 📌 [Testes de Performance da API Serverest](https://github.com/paulohenr96/serveresttests) - Testes de carga com NodeJS e K6.  
+- 📌 [Testes de Performance da API Serverest](https://github.com/paulohenr96/serveresttests) - Testes de carga com NodeJS e K6.
+- 📌 [Teestes Automatizados para a aplicação Saucedemo](https://github.com/paulohenr96/saucademoautomation) - Testes automatizados usando Cypress.  
+
 
 ### 🌐 **Web Development**  
 - 📌 [Sistema de Controle de Estoque](https://github.com/paulohenr96/inventorymanagement) - Spring, Angular e Bootstrap.  
